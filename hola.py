@@ -1,0 +1,5 @@
+nombre = input("Dime tu nombre: ")
+print("¡Qué bueno conocerte!",nombre+"!")
+print("La longitud de tu nombre es: ",len(nombre))
+edad = input("Dime tu edad: ")
+print("Entonces",nombre,"tienes",edad,"años")
